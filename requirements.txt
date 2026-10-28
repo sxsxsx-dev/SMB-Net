@@ -1,0 +1,8 @@
+torch
+monai
+timm
+einops
+nibabel
+tensorboard
+numpy
+mamba-ssm

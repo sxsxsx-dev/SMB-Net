@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+
+*.npy
+*.nii
+*.nii.gz
+out/
+summary/
+wandb/
+.vscode/
+.idea/
